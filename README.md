@@ -1,0 +1,2 @@
+# softsum
+pic of blog
